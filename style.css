@@ -1,0 +1,26 @@
+* {
+  padding: 0;
+  margin: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+.imagem {
+  background-image: url(img/fundo.jpg);
+}
+
+.perfil {
+  border: 2px solid red;
+  border-radius: 100%;
+  padding: 50px;
+}
+
+section {
+  border: 2px solid red;
+  margin: 50px;
+  padding: 50px;
+  text-align: center;
+  color: white;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
